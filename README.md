@@ -15,6 +15,8 @@
     <li>I'm interested in <strong>machine learning</strong>, <strong>blockchain</strong> and <strong>cybersec</strong></li>
     <li>I also like philosophy!</li>
     <br>
+    <br>
+    <br>
 </p>
 <hr>
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -34,7 +36,7 @@
 
 <table border="0" cellpadding="10">
     <tr>
-        <th colspan="6" align="center">Tools & Platforms</th>
+        <th colspan="6" align="left">Tools & Platforms</th>
     </tr>
     <tr>
         <td><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
@@ -48,7 +50,7 @@
 
 <table border="0" cellpadding="10">
     <tr>
-        <th colspan="8" align="center">Familiar</th>
+        <th colspan="8" align="left">Familiar</th>
     </tr>
     <tr>
         <td><img src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"></td>
@@ -107,3 +109,4 @@
 </p>
 
 <p>⭐️ From <a href="https://github.com/viswajith-ks">viswajith-ks</a></p>
+
