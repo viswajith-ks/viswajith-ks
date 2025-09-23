@@ -34,7 +34,7 @@
     </tr>
 </table>
 
-<table border="0" cellpadding="10">
+<table cellpadding="10">
     <tr>
         <th colspan="6" align="left">Tools & Platforms</th>
     </tr>
@@ -48,7 +48,7 @@
     </tr>
 </table>
 
-<table border="0" cellpadding="10">
+<table cellpadding="10">
     <tr>
         <th colspan="8" align="left">Familiar</th>
     </tr>
@@ -73,7 +73,7 @@
 </table>
 
 <h2 align="center">🚀 Featured Projects</h2>
-<table width="100%" border="0">
+<table width="100%" border="3">
     <tr>
         <td width="50%" valign="top">
             <h3><a href="https://github.com/viswajith-ks/aegis-docs">🛡️ Aegis Docs</a></h3>
@@ -109,4 +109,5 @@
 </p>
 
 <p>⭐️ From <a href="https://github.com/viswajith-ks">viswajith-ks</a></p>
+
 
