@@ -101,13 +101,7 @@
     </tr>
 </table>
 
-<h2 align="center">🏆 HackerRank Certifications</h2>
-😅
-<p>
-    <a href="https://www.hackerrank.com/certificates/c5158b773da4"><img src="cert1.png" alt="Certificate 1"></a>
-    <a href="https://www.hackerrank.com/certificates/edf85d8eaa57"><img src="cert2.png" alt="Certificate 2"></a>
-</p>
-
 <p>⭐️ From <a href="https://github.com/viswajith-ks">viswajith-ks</a></p>
+
 
 
