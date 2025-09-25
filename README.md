@@ -13,7 +13,7 @@
     <li>Currently learning <strong>Rust</strong> and its application in systems programming.</li>
     <li>Let's collaborate on some interesting <strong>projects</strong>.</li>
     <li>I'm interested in <strong>machine learning</strong>, <strong>blockchain</strong> and <strong>cybersec</strong></li>
-    <li>I also like philosophy!</li>
+    <li>I also like <a href="https://github.com/viswajith-ks/A-Fortiori/">philosophy!</a></p></li>
     <br>
     <br>
     <br>
@@ -102,6 +102,7 @@
 </table>
 
 <p>⭐️ From <a href="https://github.com/viswajith-ks">viswajith-ks</a></p>
+
 
 
 
