@@ -41,7 +41,7 @@
     <tr>
         <td><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
         <td><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></td>
-        <td><img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></td>
+        <td><img src="https://img.shields.io/badge/-GNU/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></td>
         <td><img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></td>
         <td><img src="https://img.shields.io/badge/-VS_Code-0078D7?style=for-the-badge&logo=data:&logoColor=white" alt="VS Code"></td>
         <td><img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"></td>
@@ -102,6 +102,7 @@
 </table>
 
 <p>⭐️ From <a href="https://github.com/viswajith-ks">viswajith-ks</a></p>
+
 
 
 
